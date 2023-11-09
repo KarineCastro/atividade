@@ -55,7 +55,7 @@ header a:hover{
 }
 
 .sobre img{
-    float: left;
+    float: right;
     margin-left: 30px;
 }
 
@@ -75,7 +75,7 @@ header a:hover{
 /* RODAPÉ*/
 footer{
     background-color: black;
-    padding: 20px;
+    padding: 15px;
 }
 footer p{
     text-align: center;
